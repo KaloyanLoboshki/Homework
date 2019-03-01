@@ -10,7 +10,10 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello world");
+            Console.WriteLine("Hell world");
+            int a = 5;
+            int b = 6;
+            Console.WriteLine(a*b);
         }
     }
 }
